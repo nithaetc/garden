@@ -2,11 +2,19 @@
 
 Um guia simples e mastigadinho pra quem quer começar um jardim digital e gostaria de um passo-a-passo que não vai sobrecarregar. Para iniciantes sem nenhuma experiência com código ou publicação online. Ah, e de graça, também. Escrito enquanto eu descobria um jeito fácil de montar o meu. :)
 
+<<<<<<< HEAD
 > ⚠️ **AVISO:** Esse é definitivamente um hobby para [[Eu amo nerds|nerds]]! Eu tentei simplificar o processo ao máximo, mas ainda tem algumas partes que podem ser desafiadoras pra quem não tem muita familiaridade com tech-coisinhas e nerdolagens digitais. Não dá pra fazer milagre!
 
 ### Ferramentas de jardinagem
 Todos os recursos que você vai precisar.
 #### 1. [Obsidian](obsidian.md): sua terra fértil.
+=======
+> ⚠️ **AVISO:** Esse é definitivamente um hobby para nerds! Eu tentei simplificar o processo ao máximo, mas ainda tem algumas partes que podem ser desafiadoras pra quem não tem muita familiaridade com tech-coisinhas e nerdolagens digitais. Não dá pra fazer milagre!
+
+### Ferramentas de jardinagem
+Todos os recursos que você vai precisar.
+#### 1. Obsidian: sua terra fértil.
+>>>>>>> refs/remotes/origin/main
 O Obsidian é um software livre para organizar anotações, pastas e arquivos de forma geral. Ele é tipo o primo comunista do Notion, mais ou menos. Você pode usar o Notion pra isso também, mas com o Obsidian você vai ter tudo salvo direto no seu computador, tudo seu mesmo, e você também pode usar ele pra armazenar coisas de forma privada, se quiser. Eu gosto muito do Obsidian. 
 #### 2. GitHub + Quartz: entrada do jardim.
 Aqui é o que vai te ajudar a receber visitantes e a mostrar sua plantação pra outras pessoas. São essas duas ferramentas que te permitem tornar o seu jardim público gratuitamente, colocando ele na web pra ser acessado através de um link. Você sempre decide o que você quer deixar público direto na organização do seu Obsidian, eu vou explicar isso também.

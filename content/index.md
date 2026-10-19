@@ -3,10 +3,9 @@ title: Jardim do Nitha
 ---
 # 🌼 Entrada do Jardim
 Oi! Bem-vinde ao jardim digital do Nitha. :)) 
+Aqui é onde eu junto todo tipo de coisa que eu gosto de pensar, escrever e nerdolar sobre. E também coisinhas que eu gostei de ler, assistir ou ouvir e quero compartilhar e guardar pra depois.
 
 🍄 🍃 🐭 🍂 🐾 🌼 🌱  🐞 🌳 💐 🌻 🌿 🌹 🌸 ☘️ 🏵️ 🌾 🌲
-
-Aqui é onde eu junto todo tipo de coisa que eu gosto de pensar, escrever e nerdolar sobre. E também coisinhas que eu gostei de ler, assistir ou ouvir e quero compartilhar e guardar pra depois.
 ### O que tem por aqui:
 - Meu [[Guia de Jardinagem Digital]] pra quem quiser construir um também (é bem fácil e dá pra fazer de graça).
 - Uma lista de [[Jardins na Web]] que eu achei interessantes, bonitos e/ou divertidos.

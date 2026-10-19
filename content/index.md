@@ -17,7 +17,7 @@ Aqui é onde eu junto todo tipo de coisa que eu gosto de pensar, escrever e nerd
 (Em breve) Eu posso te avisar quando surgirem novidades no jardim.
 [[e-mail (em breve)|📧 Clica aqui]] pra me mandar o seu endereço de e-mail e entrar na minha lista de contatos. Eu sou só um carinha, não uma empresa, então você não precisa se preocupar com spam, propagandas ou venda dos seus dados pra terceiros. Também pode me mandar um e-mail em resposta a qualquer momento se quiser sair da lista ou só conversar comigo, mesmo.
 
-##### Powered by Quartz
-> Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers publish personal notes, wikis, and [digital gardens](https://jzhao.xyz/posts/networked-thought) to the web.
+###### Powered by Quartz
+%%Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers publish personal notes, wikis, and [digital gardens](https://jzhao.xyz/posts/networked-thought) to the web.%%
 
-See the [official documentation](https://quartz.jzhao.xyz/) for more details.
+	See the [official documentation](https://quartz.jzhao.xyz/) for more details.

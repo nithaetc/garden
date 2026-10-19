@@ -3,11 +3,11 @@
 Um guia simples e mastigadinho pra quem quer começar um jardim digital e gostaria de um passo-a-passo que não vai sobrecarregar. Para iniciantes sem nenhuma experiência com código ou publicação online. Ah, e de graça, também. Escrito enquanto eu descobria um jeito fácil de montar o meu. :)
 
 <<<<<<< HEAD
-> ⚠️ **AVISO:** Esse é definitivamente um hobby para [[Eu amo nerds|nerds]]! Eu tentei simplificar o processo ao máximo, mas ainda tem algumas partes que podem ser desafiadoras pra quem não tem muita familiaridade com tech-coisinhas e nerdolagens digitais. Não dá pra fazer milagre!
+> ⚠️ **AVISO:** Esse é definitivamente um hobby para [nerds](<eu-amo-nerds>)! Eu tentei simplificar o processo ao máximo, mas ainda tem algumas partes que podem ser desafiadoras pra quem não tem muita familiaridade com tech-coisinhas e nerdolagens digitais. Não dá pra fazer milagre!
 
 ### Ferramentas de jardinagem
 Todos os recursos que você vai precisar.
-#### 1. [Obsidian](obsidian.md): sua terra fértil.
+#### 1. Obsidian: sua terra fértil.
 =======
 > ⚠️ **AVISO:** Esse é definitivamente um hobby para nerds! Eu tentei simplificar o processo ao máximo, mas ainda tem algumas partes que podem ser desafiadoras pra quem não tem muita familiaridade com tech-coisinhas e nerdolagens digitais. Não dá pra fazer milagre!
 

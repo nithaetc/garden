@@ -1,0 +1,5 @@
+Acho que fandoms foram o primeiro lugar em que eu consegui me sentir *visto* de uma forma que também me permitisse me sentir *livre.*
+
+Eu cresci meio reprimido, digamos assim. Um transviado nerdola vivendo em uma cidadezinha pequena de interior, crescendo em meio a uma situação liminar muito particular no que se refere a acesso e classe, e tendo sido colocado com uns 5 anos numa escola católica tradicionalista. Mas tradicionalista *mesmo,* ta? Saia até o joelho, código de vestimenta que ditava até a cor das meias, meninas e meninos com recreio em espaços separados, missas compulsórias todas as sextas-feiras. Aula de religião que era de religião, singular. Era catecismo disfarçado de matéria escolar. E foi minha média mais baixa no meu histórico de fundamental! Nunca fui bom em ser católico, apesar de ter tentado por muito tempo.
+
+Então, é, dá pra dizer que eu fui um pouco reprimido. Demorou um tempo pra eu entender que existia espaço pra ser mais, mais tempo pra entender que eu *precisava* ser mais, e mais tempo ainda pra eu ter *coragem* de ser mais.

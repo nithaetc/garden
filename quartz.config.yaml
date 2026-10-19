@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=./runtime/quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Jardim do Nitha
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics: null
-  locale: en-US
-  baseUrl: sosiristseng.github.io/template-quartz
+  locale: pt-BR
+  baseUrl: nitha.etc.br
   ignorePatterns:
     - private
     - templates

@@ -14,26 +14,36 @@ Todos os recursos que você vai precisar.
 ### Ferramentas de jardinagem
 Todos os recursos que você vai precisar.
 #### 1. Obsidian: sua terra fértil.
->>>>>>> refs/remotes/origin/main
+=======
 O Obsidian é um software livre para organizar anotações, pastas e arquivos de forma geral. Ele é tipo o primo comunista do Notion, mais ou menos. Você pode usar o Notion pra isso também, mas com o Obsidian você vai ter tudo salvo direto no seu computador, tudo seu mesmo, e você também pode usar ele pra armazenar coisas de forma privada, se quiser. Eu gosto muito do Obsidian. 
 #### 2. GitHub + Quartz: entrada do jardim.
+=======
 Aqui é o que vai te ajudar a receber visitantes e a mostrar sua plantação pra outras pessoas. São essas duas ferramentas que te permitem tornar o seu jardim público gratuitamente, colocando ele na web pra ser acessado através de um link. Você sempre decide o que você quer deixar público direto na organização do seu Obsidian, eu vou explicar isso também.
 #### 3. Sementes de pensamento
+=======
 As sementes que você vai plantar no seu jardim dependem de você. Cada pensamento, ideia, projeto, textinho etc. é uma sementinha que você pode continuar regando com o tempo e vendo ela crescer e se conectar com outras ideias pra gerar novos frutos. Mas eu vou te ajudar a começar com algumas ideias e recursos para os seus primeiros passos, caso você ainda não tenha decidido o que plantar primeiro.
 
 ### Mãos na terr@
 Um passo-a-passo compreensível que vai te levar até a sua primeira sementinha.
 #### 1. Prepare seu lote online com [Quartz](https://quartz.jzhao.xyz/) e o GitHub Pages
+=======
 Não coça a cabeça não, é coisa simples. Dá pra fazer do jeito mais complexo, claro, se você for nerdola e gostar de futucar as coisas. Pra isso você vai precisar instalar alguns [pré-requisitos](https://quartz.jzhao.xyz/getting-started/#prerequisites) e saber o básico (básico mesmo) de git, e se você sabe isso você provavelmente consegue se virar com o [tutorial da página oficial do Quartz](https://quartz.jzhao.xyz/getting-started/). Do contrário, pra quem gosta das coisas fáceis (same tbh), vou te mostrar o jeito simples de clonar um projeto do GitHub e usar a sua conta de lá para deixar suas notas online através do GitHub Pages
 ##### Tutorial dentro do tutorial
 **(com mais tutorial dentro (a boneca russa de tutoriais))**
+
 1. [Instale o Git](https://git-scm.com/install/windows)
+   =======
 	Oh meu deus!! Que papo de nerd é esse!!?
+	=======
 	Não se desespere, jovem. Confia que esse é o caminho fácil.
+	=======
 	Se você não souber o que tá fazendo, baixe a versão atualizada pra Windows no primeiro link da página de download e siga essa colinha na instalação:
+	=======
 	   Use the Nano editor by default $\textrightarrow$ Let Git decide $\textrightarrow$ Git from the command line and also from 3rd-party software $\rightarrow$  Use bundled OpenSSH $\rightarrow$ Use the OpenSSL library $\rightarrow$ Checkout Windows-style, commit Unix-style line endings $\rightarrow$ Use MinTTY (the default terminaL of MSYS2) $\rightarrow$ Fast-forward only $\rightarrow$ Git Credential Manager $\rightarrow$ Enable file system caching
-	   E pronto, só isso tudo. Marca Open Git Bash no final e ele já vai abrir a telinha pra você ir direto para o próximo passo. Nem doeu, viu só?
-	   *P.S.: eu não estou afirmando que esse é o melhor jeito de configurar o Git. Eu tô só improvisando e tentando facilitar a vida de quem também não sabe muito bem o que tá fazendo mas quer brincar. Agradeço a compreensão.*
+	   =======
+	E pronto, só isso tudo. Marca Open Git Bash no final e ele já vai abrir a telinha pra você ir direto para o próximo passo. Nem doeu, viu só?
+	=======
+	*P.S.: eu não estou afirmando que esse é o melhor jeito de configurar o Git. Eu tô só improvisando e tentando facilitar a vida de quem também não sabe muito bem o que tá fazendo mas quer brincar. Agradeço a compreensão.*
    
 2. [Crie uma conta no GitHub](https://github.com/signup) e faça login
 	Essa parte é fácil, mas faça com atenção. Eu perdi um código de recuperação da minha primeira conta no GitHub e tive que abandonar ela. Ainda bem que não tinha quase nada lá mesmo.

@@ -1,0 +1,6 @@
+Existe algo muito precioso na forma como nerds engajam com os assuntos, hobbies, mídias e conteúdos em geral que permeiam os seus interesses. Eu acho fascinante, e digo isso tanto como um nerd autodeclarado quanto como um apreciador de nerds autodeclarado. Gosto de praticar e gosto de observar nerds à solta por aí. 
+
+Veja bem, eu não tenho certeza se sei distinguir o interesse nerd do interesse autista. Isso porque, enquanto um nerdola autista e TDAH, as duas coisas sempre estiveram e sempre estarão profundamente interconectadas. Os assuntos sobre os quais eu sou nerd são as minhas hiperfixações de longo prazo ou meus hiperfocos passageiros. Mais que isso, a *forma* como eu engajo com esses interesses é profundamente nerd, e, é claro, profundamente autista.
+
+Tendo isso em mente, é bem provável que eu misture um pouco os dois. Se você for um nerd neurotípico (ou com questões neuropsicológicas diferentes das minhas, pelo menos) e ler algo aqui que te deixe meio $\textquotedblleft$huh$\textquotedblright$, provavelmente é uma coisa mais autista do que nerd... e vice-versa.
+### O jeito nerd de gostar das coisas

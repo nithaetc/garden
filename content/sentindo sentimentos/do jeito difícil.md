@@ -1,12 +1,10 @@
 ---
-banner: pixel-banner-images/ilysfm.png
-banner-x: 100
-banner-y: 41
 title: do jeito dificil
 ---
 Tem [aquela do the front bottoms](https://music.youtube.com/watch?v=fTrZIpSzSd8) que diz assim:
 
 > Whosever writing my story wants me to **learn the hard way**.
+> 
 > Don't take it easy on the character. I am the character.
 
 Eu acho realmente engraçado como eu me relaciono com essa música, de forma literal, metafórica, emocional, espiritual. Principalmente quando uma das minhas frases mais ditas é *"eu gosto das coisas fáceis."* Foi uma frase que eu disse muitas vezes pro meu ex, inclusive -- uma das pessoas que mais dificultaram minha vida rs!

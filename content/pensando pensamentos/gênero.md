@@ -6,4 +6,4 @@ A questão é que esse pensamento acontece, geralmente, de forma subconsciente, 
 
 Acontece que gênero não é natural, não vem escrito no nosso DNA. Você pode ler, sim, cromossomos XX ou XY ou diversas variações desses dois, mas eles não conseguem descrever como será a expressão de gênero daquele determinado indivíduo. Muitas vezes não conseguem nem sequer apontar com precisão como será a expressão de características sexuais primárias e secundárias do indivíduo. E certamente não vêm com um guia sobre quais as cores, roupas e cortes de cabelo "certas" para aquele indivíduo.
 
-É tudo construído através da cultura, das relações e das experiências. Nada é tão rígido assim. Parece óbvio quando eu coloco desse jeito, mas de alguma forma ainda é quase incompreensível pra muita gente.
+É tudo construído através da cultura, das relações e das [[do jeito difícil|experiências]]. Nada é tão rígido assim. Parece óbvio quando eu coloco desse jeito, mas de alguma forma ainda é quase incompreensível pra muita gente.

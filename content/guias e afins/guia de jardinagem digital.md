@@ -1,8 +1,11 @@
+---
+title: 🌱 guia de jardinagem digital
+---
 #### ... para webJardineiros de primeira viagem.
 
 Um guia simples e mastigadinho pra quem quer começar um jardim digital e gostaria de um passo-a-passo que não vai sobrecarregar. Para iniciantes sem nenhuma experiência com código ou publicação online. Ah, e de graça, também. Escrito enquanto eu descobria um jeito fácil de montar o meu. :)
 
-> ⚠️ **AVISO:** Esse é definitivamente um hobby para [[eu amo nerds|nerds]]! Eu tentei simplificar o processo ao máximo, mas ainda tem algumas partes que podem ser desafiadoras pra quem não tem muita familiaridade com tech-coisinhas e nerdolagens digitais. Não dá pra fazer milagre!
+> ⚠️ **AVISO:** Esse é definitivamente um hobby para [[nerds]]! Eu tentei simplificar o processo ao máximo, mas ainda tem algumas partes que podem ser desafiadoras pra quem não tem muita familiaridade com tech-coisinhas e nerdolagens digitais. Não dá pra fazer milagre!
 ### Ferramentas de jardinagem
 Todos os recursos que você vai precisar.
 #### 1. Obsidian: sua terra fértil.
@@ -69,7 +72,7 @@ Não coça a cabeça não, é coisa simples. Dá pra fazer do jeito mais complex
 	
 	*Dica: dá pra colar com o botão direito.* 👍
 	
-	Depois disso você vai ver algumas linhas surgirem no seu terminal (especificamente 13 linhas, no meu caso; faz o L). Se surgir algum erro, o próprio terminal deve te avisar junto com alguma informação que você possa usar pra pesquisar a solução no Substack, no Reddit ou perguntar pro DeepSeek seilar. Aqui deu tudo certo. 
+	Depois disso você vai ver algumas linhas surgirem no seu terminal (especificamente 13 linhas, no meu caso; faz o L). Se surgir algum erro, o próprio terminal deve te avisar junto com alguma informação que você possa usar pra pesquisar a solução no Substack, no Reddit ou [[IA|perguntar pro DeepSeek]] seilar. Aqui deu tudo certo. 
 #### 2. [Instale o Obsidian](https://obsidian.md/download) e configure a pasta do seu jardim como um cofre
 Aeee, a parte chatinha acabou! Sério!! Agora é mole, diversão. Vai até a pasta do seu diretório que você clonou pro seu PC (ela vai estar exatamente naquele caminho que você selecionou com o comando `cd` no passo anterior) e confira que dentro dela deve existir uma pasta chamada `content`. Viu ela lá? Perfeito.
 

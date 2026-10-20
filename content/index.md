@@ -11,9 +11,11 @@ Aqui é onde eu junto todo tipo de coisa que eu gosto de pensar, escrever e nerd
 ### O que tem por aqui:
 - Meu [[guia de jardinagem digital]] pra quem quiser construir um também (é bem fácil e dá pra fazer de graça).
 - Uma lista de [[jardins na web]] que eu achei interessantes, bonitos e/ou divertidos.
-- Um devaneio sobre como [[eu amo nerds]].
+- Um devaneio sobre como [[nerds|eu amo nerds]].
 - Um devaneio sobre [[fandoms]].
 - Um devaneio sobre [[gênero]].
+- Aquela do tfb que fala sobre aprender as coisas [[do jeito difícil]].
+- Um devaneio sobre [[IA|como eu uso IA]].
 - Muito espaço pra plantar coisas novas.
 ### Quer saber quando crescer algo novo?
 (Em breve) Eu posso te avisar quando surgirem novidades no jardim.

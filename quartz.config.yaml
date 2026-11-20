@@ -103,11 +103,11 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
-  options:
-    fontOrigin: local
-    body: Calibri, Candara, Segoe, sans-serif
-    header: "Times New Roman", Times, Georgia, serif
-    code: "Lucida Console", "Lucida Sans Typewriter", Monaco, monospace
+    options:
+      fontOrigin: local
+      body: Calibri, Candara, Segoe, sans-serif, system-ui
+      header: "Times New Roman", Times, Georgia, serif
+      code: "Lucida Console", "Lucida Sans Typewriter", Monaco, monospace, "Courier New"
   # https://github.com/saberzero1/quartz-themes
   - source: "@quartz-themes/core"
     enabled: false

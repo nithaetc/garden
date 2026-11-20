@@ -49,6 +49,8 @@ jobs:
         run: |
           yq -i '.configuration.baseUrl = "${{ steps.clean_url.outputs.stripped_url }}"' quartz.config.yaml
           cp -vr quartz.config.yaml content/ runtime/
+      - name: Copy custom favicon
+        run: cp content/static/favicon.png runtime/quartz/static/icon.png
       - name: Setup Node.js
         uses: actions/setup-node@v7
         with:

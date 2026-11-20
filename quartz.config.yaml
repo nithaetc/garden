@@ -101,19 +101,19 @@ plugins:
   - source: "@quartz-community/roam"
     enabled: false
     order: 92
-  - source: "@quartz-community/quartz-fonts"
-    enabled: true
-    options:
-      fontOrigin: local
-      body: Calibri, Candara, Segoe, system-ui, sans-serif
-      header: "Times New Roman", Times, Georgia, serif
-      code: "Lucida Console", "Lucida Sans Typewriter", Monaco, monospace, "Courier New"
   # https://github.com/saberzero1/quartz-themes
   - source: "@quartz-themes/core"
     enabled: false
     options:
       theme: tokyo-night
       mode: both
+  - source: "@quartz-community/quartz-fonts"
+    enabled: true
+    options:
+      fontOrigin: local
+      body: Calibri, Candara, Segoe, system-ui, sans-serif
+      header: "Times New Roman", Times, Georgia, system-ui, serif
+      code: "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"

@@ -12,12 +12,12 @@ configuration:
     - templates
     - .obsidian
   theme:
-    fontOrigin: googleFonts
+    fontOrigin: local
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: Fira Code
+      header: Times New Roman
+      body: Calibri
+      code: Lucida Console
     colors:
       lightMode:
         light: "#faf8f8"
@@ -25,20 +25,20 @@ configuration:
         gray: "#b8b8b8"
         darkgray: "#4e4e4e"
         dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
+        secondary: "#440080"
+        tertiary: "#00fcff"
         highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        textHighlight: "#00fcff"
       darkMode:
         light: "#161618"
-        lightgray: "#393639"
+        lightgray: "#363939"
         gray: "#646464"
         darkgray: "#d4d4d4"
         dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
+        secondary: "#00fcff"
+        tertiary: "#440080"
         highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        textHighlight: "#00fcff"
       favicon:
         - rel: "icon"
           href: "/static/favicon.png"
@@ -103,6 +103,11 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
+  options:
+    fontOrigin: local
+    body: Calibri, Candara, Segoe, sans-serif
+    header: "Times New Roman", Times, Georgia, serif
+    code: "Lucida Console", "Lucida Sans Typewriter", Monaco, monospace
   # https://github.com/saberzero1/quartz-themes
   - source: "@quartz-themes/core"
     enabled: false

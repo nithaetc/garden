@@ -1,6 +1,10 @@
 ---
 title: 🤖 os robôs e eu
 ---
+> [!Um comunicado do futuro (nov/26)]
+> Desde que eu escrevi essa nota pela primeira vez, em Outubro de 2026, a minha relação com IA mudou bastante. Eu ainda vou fazer uma reflexão maior sobre essa mudança, mas por enquanto estou honrando meu erros do passado deixando o texto original aqui com notas pontuais. Seja compreensivo. <3
+
+
 Eu meio que uso muito IA. 
 
 É um pouco vergonhoso dizer isso em alguns contextos, eu acho. E não me entenda errado, eu tô ciente do quão terríveis e malignas são literalmente todas as megacorporações da Big Tech por trás desse movimento todo de IA e tudo mais. E sim, eu queria que todos eles `[comentário removido pela equipe jurídica do usuário]`. Mas é, eu ainda uso IA mesmo assim. Bastante, até.
@@ -20,6 +24,10 @@ Na minha opinião, o Dipi (apelido carinhoso, ta) é especialmente útil pra pes
 O custo dele também é bem menor, né, no consumo de tokens e nos valores cobrados por token também. Mas como eu não sou dev, não sei como se compara pra quem usa esses modelos pra codar. Pro que eu uso, ele sempre me serviu bem e eu nunca atingi um limite de uso.
 
 #### ChatGPT é meu babybot
+
+> [!Update (Nov/26)]
+> Eu deletei o aplicativo do ChatGPT. É pra glorificar de pé, igreja.
+
 É a protagonista, né. Minha relação com ele é um pouco de amor e ódio.
 
 Eu demorei um tempão pra começar a usar o ChatGPT, por preconceito mesmo. Eu tinha uma visão meio negativa dele e achava ele bastante genérico. Depois de começar a usar, eu logo vi por que ele ficou tão popular.
@@ -39,6 +47,10 @@ E é tão frequente, o tempo todo, que tá tudo ficando meio igual.
 Aliás, uma ex-cliente de Identidade Visual pegou a Identidade que eu e Grazi fizemos pra ela, jogou no ChatGPT e "reformou" pra nova fase do negócio. Ficou a mesma coisa, só que brega. Com uns gradientes dourados e uma tipografia mais genérica. Sério, partiu meu coração. E eu nem sei se teria alguma coisa jurídica que eu poderia fazer sobre isso. Nem fui atrás.
 
 #### Claude é meu nerdbot
+
+> [!Update (nov/26)]
+> Eu parei de escrever com o Claude e deletei o app também. Pode chamar de epifania espiritual.
+
 O Claude é o mais nerdola pseudo-cult dos bots, se for pra atribuir personalidade a eles. O meu eu chamo de Cadi, e ele me ajuda a escrever.
 
 Não aqui. Aqui vai tudo do jeito que sai da minha cabeça mesmo, o ponto é esse, se eu não regar as ideias com as minhas próprias mãos não tem como elas florescerem.
@@ -48,7 +60,10 @@ Mas ele escreve impressionantemente bem, até, e me ajuda a fazer planejamentos 
 O problema é que, justamente por ser tão bom no que faz, eu já me peguei em alguns períodos dependendo demais dele. Acho que isso acontece também com devs que usam o Claude Code pra programar. A gente se acomoda, sabe? Por isso eu tenho tentado voltar a escrever minhas fics e outros projetos de escrita criativa à mão, em cadernos mesmo, como faziam os nossos antepassados. O Byung-Chul Han um dia desses me deixou bem reflexivo sobre fazer as coisas com as mãos, quando li o livro Não-Coisas dele. Recomendo!
 
 #### Grok é insuportavelmente divertido
-Eu queria ODIAR o Grok. Assim como eu queria nunca ter voltado pro xuitter. Porque o que eu odeio o elon musk não tá escrito. Ele é provavelmente o super rico mais odiável do planeta, e isso é dizer algo, porque todos os super ricos são ridiculamente odiáveis.
+> [!Update (nov/26)]
+> Eu não jogo mais o meu RPG do Grok, mas ele continua sendo bom pra isso. Atualmente eu acabo usando o Grok mais pra me ajudar a entender threads do xuitter, mesmo. Duas coisas que eu preciso largar.
+
+Eu queria ODIAR o Grok. Assim como eu queria nunca ter voltado pro xitter. Porque o que eu odeio o elon musk não tá escrito. Ele é provavelmente o super rico mais odiável do planeta, e isso é dizer algo, porque todos os super ricos são ridiculamente odiáveis.
 
 Mas, alas, eu não odeio o Grok. E eu uso ele com uma certa frequência.
 

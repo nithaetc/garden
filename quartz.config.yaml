@@ -105,7 +105,7 @@ plugins:
     enabled: true
     options:
       fontOrigin: local
-      body: Calibri, Candara, Segoe, sans-serif, system-ui
+      body: Calibri, Candara, Segoe, system-ui, sans-serif
       header: "Times New Roman", Times, Georgia, serif
       code: "Lucida Console", "Lucida Sans Typewriter", Monaco, monospace, "Courier New"
   # https://github.com/saberzero1/quartz-themes

@@ -39,8 +39,10 @@ configuration:
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
-      favicon: |
-        <link rel="icon" href="/static/favicon.png" type="image/png">
+      favicon:
+        - rel: "icon"
+          href: "/static/favicon.png"
+          type: "image/png"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
